@@ -26,7 +26,7 @@ export const constantRoutes = [
         meta: {
             name: "home"
         },
-        props: 'abc'
+        props: 'abcd'
     }
 
 
